@@ -5,10 +5,10 @@ snake game 3 levels with python pygame
   python3
   pygame
   
-#install
-  #Linux
+# install
+  # Linux
     pip3 install pygame
-  #Windows
+  # Windows
     python -m pip install pygame
-#Usage
+# Usage
   python3 start.py
